@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>https://FlowGenAI.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.com/</loc>
+    <loc>https://FlowGenAI.github.io/</loc>
   </url><url>
-    <loc>http://example.com/product/</loc>
+    <loc>https://FlowGenAI.github.io/product/</loc>
   </url><url>
-    <loc>http://example.com/solutions/</loc>
+    <loc>https://FlowGenAI.github.io/solutions/</loc>
   </url><url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://FlowGenAI.github.io/tags/</loc>
   </url>
 </urlset>
